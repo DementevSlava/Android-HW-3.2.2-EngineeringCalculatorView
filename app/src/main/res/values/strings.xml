@@ -25,4 +25,15 @@
     <string name="N">N</string>
     <string name="T">T</string>
     <string name="V">V</string>
+    <string name="u221a">√</string>
+    <string name="x_u00b2">X²</string>
+    <string name="x_u005ey">X^y</string>
+    <string name="fact">n!</string>
+    <string name="_00">00</string>
+    <string name="mc">MC</string>
+    <string name="mr">MR</string>
+    <string name="ms">MS</string>
+    <string name="m_plus">M+</string>
+    <string name="m_minus">M-</string>
+    <string name="switch_calc">Switch calc</string>
 </resources>
